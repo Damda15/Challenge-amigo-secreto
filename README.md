@@ -25,4 +25,4 @@ Este proyecto no tiene requisitos adicionales, solo necesitas un navegador web m
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone 
+   git clone https://github.com/Damda15/Challenge-amigo-secreto.git
